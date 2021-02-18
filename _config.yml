@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: 3D PDF Consortium
-description: The GitHub community for 3D PDF
+title: 
+description: 
 logo: img/3dpdfconsortium.png
-show_downloads: false
+show_downloads: true
