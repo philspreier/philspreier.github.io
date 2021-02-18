@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-title: 
-description: 
+title: ""
 logo: img/3dpdfconsortium.png
-show_downloads: true
+show_downloads: false
